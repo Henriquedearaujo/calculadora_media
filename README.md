@@ -2,32 +2,60 @@
 
 ## Objetivo
 
-> entender o benefício de usar o JQuery ao desenvolver aplicações web;
+> estrutura uma tabela HTML com colunas;
 
-> aplica seletores apropriados no jQuery;
+>aplica a estilização básica nos principais campos da tabela;
 
-> usa métodos e funções do JQuery para realizar manipulações nos elementos do DOM;
+> usa regras CSS para alterar a aparência dos elementos na tabela;
 
-> identifica diferentes tipos de eventos;
+> usa seletores CSS para segmentar elementos específicos e aplicar estilos apenas a eles na tabela;
 
-> aplica eventos a elementos;
+> compreender o uso das unidades de medida;
 
-> cria comportamentos interativos específicos para cada tipo de evento;
+> entende a importância da responsividade e do espaçamento na tabela;
 
-> usa funções para aplicar efeitos de expansão e recolhimento a elementos;
+> implementa a lógica de inserção de alunos e cálculo de aprovação na calculadora;
 
-> pratica a seleção de elementos do JQuery;
+> cria novas linhas na tabela para representar cada aluno inserido;
 
-> usa animações de slideUp e slideDown;
+> aplica estruturas condicionais para tomada de decisões como if/else;
 
-> compreender o conceito de manipulação do DOM usando a biblioteca jQuery;
+> fezer a comparação entre valores e determinou a exibição dos emojis de celebração ou tristeza com base no resultado;
 
-> cria elementos como imagens, links e divs usando métodos e funções do jQuery;
+> organiza o código através de funções reutilizáveis;
 
-> aplica animações e efeitos visuais aos elementos HTML criados dinamicamente;
+> aplica laço for para cálculos iterativos;
 
-> realiza os passos necessários para fazer o deploy de um projeto no GitHub; 
+> compreender como receber entradas do usuário usando a função prompt;
 
-> ajusta configurações e detalhes no GitHub;
+> estrutura uma tabela HTML com colunas;
 
-> compreender a importância da compressão de imagens.
+> aplica a estilização básica nos principais campos da tabela;
+
+> usa regras CSS para alterar a aparência dos elementos na tabela;
+
+> usa seletores CSS para segmentar elementos específicos e aplicar estilos apenas a eles na tabela;
+
+> compreender o uso das unidades de medida;
+
+> entender a importância da responsividade e do espaçamento na tabela;
+
+> implementa a lógica de inserção de alunos e cálculo de aprovação na calculadora;
+
+> cria novas linhas na tabela para representar cada aluno inserido;
+
+> aplica estruturas condicionais para tomada de decisões como if/else;
+
+> fezer a comparação entre valores e determinou a exibição dos emojis de celebração ou tristeza com base no resultado;
+
+> organiza o código através de funções reutilizáveis;
+
+> aplica laço for para cálculos iterativos;
+
+> compreender como receber entradas do usuário usando a função prompt;
+
+> cria um repositório no GitHub para o projeto;
+
+> fezer as renderizações necessárias;
+
+> realizou commits e pushs.
